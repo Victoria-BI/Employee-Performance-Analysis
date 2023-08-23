@@ -15,3 +15,11 @@ The Extraction, Transformation and Load (ETL) process was used for this analysis
 **Key Insights and Findings**
 1. The analysis shows that the total number of employees are 290. The male gender accounts for 206  while the female gender accounts for 84. with the male gender accounting for 71.03% of the total number of employee, there is a need for the HR to recruit more female in the forth coming recruitment process.
 2. There are 67 job titles and the salary per hour of the staff ranges from $9.75 to $390. The production technicians had the highest salary while the facility administrative assistant had the lowest salary
+3. The production technicians takes more sick leave than other staff. The total hours of sick leave they took is between 1287 to 550 hours per annum.
+4. The production technicians also take the most vacation hours
+
+
+**Recommendation**
+The HR manager needs to have a meeting with the production technicians to better understand their work schedule and to know why the take the most sick leave. Due to tthe nature of their work, they may be exposed to some harmful chemicals in the production hall which may lead to constant sickness. This should be addressed as soon as possible to reduce health risk.
+
+The HR also need to priotize employing more females in the forth coming recruitment process. 
