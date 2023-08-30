@@ -11,6 +11,8 @@ In order to restructure, the company is interested in recruiting a fresh set of 
 
 The Extraction, Transformation and Load (ETL) process was used for this analysis. The data needed was extracted from the company database using SQL and downloaded into an Excel file. The data was cleaned in excel by removing duplicates and formating the data before transforming it in power query and loaded into Power BI for visualization.
 
+![Screenshot (297)](https://github.com/Victoria-BI/Employee-Performance-Analysis/assets/139733774/24253e2d-5b91-40ca-aff8-49d31bcb45ca)
+Transformation in Power Query
 
 **Key Insights and Findings**
 1. The analysis shows that the total number of employees are 290. The male gender accounts for 206  while the female gender accounts for 84. with the male gender accounting for 71.03% of the total number of employee, there is a need for the HR to recruit more female in the forth coming recruitment process.
