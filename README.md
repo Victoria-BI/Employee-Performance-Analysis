@@ -18,7 +18,7 @@ The Extraction, Transformation and Load (ETL) process was used for this analysis
 3. The production technicians takes more sick leave than other staff. The total hours of sick leave they took is between 1287 to 550 hours per annum.
 4. The production technicians also take the most vacation hours
 
-5. 
+5. ![Screenshot (296)](https://github.com/Victoria-BI/Employee-Performance-Analysis/assets/139733774/fc45bc3f-9fda-4de4-b822-2f910370e536)
 
 
 **Recommendation**
