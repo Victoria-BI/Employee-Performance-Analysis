@@ -20,6 +20,8 @@ The Extraction, Transformation and Load (ETL) process was used for this analysis
 
 
 **Recommendation**
+
+
 The HR manager needs to have a meeting with the production technicians to better understand their work schedule and to know why the take the most sick leave. Due to tthe nature of their work, they may be exposed to some harmful chemicals in the production hall which may lead to constant sickness. This should be addressed as soon as possible to reduce health risk.
 
 The HR also need to priotize employing more females in the forth coming recruitment process. 
